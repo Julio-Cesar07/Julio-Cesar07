@@ -2,7 +2,7 @@
 <div>
 - 👀 I’m interested in study React.JS, React Native and Node.JS</br>
 - 💞️ I’m looking to collaborate on Web and Mobile projects</br>
-- 📫 How to reach me julio.santos07@hotmail.com or <a href="https://www.linkedin.com/in/julio-cesar-080a631a6/" alt="Julio-LinkedIn">LinkedIn Julio Cesar</a></br>
+- 📩 To contact me: julio.santos07@hotmail.com or <a href="https://www.linkedin.com/in/julio-cesar-080a631a6/" alt="Julio-LinkedIn">LinkedIn Julio Cesar</a></br>
 </div></br>
 
 <div style="display: inline_block"><br>
